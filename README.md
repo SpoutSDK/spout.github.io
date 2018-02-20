@@ -1,2 +1,2 @@
-# spout.github.io
+# SpoutSDK.github.io
 SpoutSDK
